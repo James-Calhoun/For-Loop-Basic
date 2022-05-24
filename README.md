@@ -1,2 +1,2 @@
 # For-Loop-Basic
-Practicing with For Loops
+Just a small practice session with for loops in Python!
